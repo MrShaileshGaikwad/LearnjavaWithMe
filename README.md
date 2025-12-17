@@ -19,7 +19,6 @@ This repository contains my **daily Java practice** for learning, revision, and 
 - Build strong fundamentals
 - Help others learn Java for free
 
-## License
 This project is licensed under the MIT License.
 ##**LearnJavaWithMe**
 │
